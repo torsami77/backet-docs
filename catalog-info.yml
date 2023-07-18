@@ -1,0 +1,11 @@
+apiVersion: backstage.io-backet-docs
+kind: Component
+metadata:
+  name: infrastructure-insight-docs
+  description: Insight documentation
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: developer-productivy
+  lifecycle: production
