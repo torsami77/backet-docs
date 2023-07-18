@@ -1,0 +1,10 @@
+site_name: 'infrastructure-insight-backet'
+
+nav:
+  - Getting started:
+      - Getting Started: index.md
+  - MKdoc: index.md
+  - docs: index.md
+
+plugins:
+  - techdocs-core
